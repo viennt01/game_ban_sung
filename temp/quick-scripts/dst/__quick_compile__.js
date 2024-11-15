@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/scripts/Game":1,"./assets/migration/use_v2.1-2.2.1_cc.Toggle_event":2,"./assets/scripts/bad":3,"./assets/scripts/movement":4},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Game.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.1-2.2.1_cc.Toggle_event.js"},{"deps":{},"path":"preview-scripts/assets/scripts/bad.js"},{"deps":{},"path":"preview-scripts/assets/scripts/movement.js"}];
+var scripts = [{"deps":{"./assets/scripts/bad":1,"./assets/migration/use_v2.1-2.2.1_cc.Toggle_event":2,"./assets/scripts/movement":3,"./assets/scripts/Game":4},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/scripts/bad.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.1-2.2.1_cc.Toggle_event.js"},{"deps":{},"path":"preview-scripts/assets/scripts/movement.js"},{"deps":{},"path":"preview-scripts/assets/scripts/Game.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 

@@ -520,8 +520,8 @@
     "relativePath": "migration\\use_v2.1-2.2.1_cc.Toggle_event.js"
   },
   "c45d3877-8b7e-44e5-b7d8-7e6d1ed04d8c": {
-    "asset": 1731322501142,
-    "meta": 1731322501151,
+    "asset": 1731495034047,
+    "meta": 1731495034054,
     "relativePath": "Game.fire"
   },
   "a3c7dcb0-e451-4859-b958-bb41e0f0d554": {
@@ -569,11 +569,6 @@
     "meta": 1731493926321,
     "relativePath": "scripts\\Game.ts"
   },
-  "7b745a7e-a793-4189-aa6f-a2310e7899da": {
-    "asset": 1731494040980,
-    "meta": 1731494041728,
-    "relativePath": "scripts\\movement.ts"
-  },
   "749bb3b9-2cc9-4209-a826-1f116cc408ff": {
     "asset": 1731494092182,
     "meta": 1731494106001,
@@ -583,5 +578,10 @@
     "asset": 1731494269658,
     "meta": 1731494269697,
     "relativePath": "background.jpg"
+  },
+  "7b745a7e-a793-4189-aa6f-a2310e7899da": {
+    "asset": 1731551621042,
+    "meta": 1731551656919,
+    "relativePath": "scripts\\movement.ts"
   }
 }

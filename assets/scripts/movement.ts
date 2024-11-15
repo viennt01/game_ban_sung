@@ -39,10 +39,14 @@ export default class NewClass extends cc.Component {
         // Xử lý khi thả phím
         switch (event.keyCode) {
             case cc.macro.KEY.w: // Phím W
+                this.direction.y = 0; // Dừng di chuyển theo trục Y
+                break;
             case cc.macro.KEY.s: // Phím S
                 this.direction.y = 0; // Dừng di chuyển theo trục Y
                 break;
             case cc.macro.KEY.a: // Phím A
+                this.direction.x = 0; // Dừng di chuyển theo trục Y
+                break;
             case cc.macro.KEY.d: // Phím D
                 this.direction.x = 0; // Dừng di chuyển theo trục X
                 break;
