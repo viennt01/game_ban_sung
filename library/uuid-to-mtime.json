@@ -520,8 +520,8 @@
     "relativePath": "migration\\use_v2.1-2.2.1_cc.Toggle_event.js"
   },
   "c45d3877-8b7e-44e5-b7d8-7e6d1ed04d8c": {
-    "asset": 1731495034047,
-    "meta": 1731495034054,
+    "asset": 1731639776820,
+    "meta": 1731639776830,
     "relativePath": "Game.fire"
   },
   "a3c7dcb0-e451-4859-b958-bb41e0f0d554": {
@@ -564,24 +564,59 @@
     "meta": 1731319176466,
     "relativePath": "bad.prefab"
   },
-  "1c0febf6-df8a-4b45-8872-640f33c1d24e": {
-    "asset": 1731493923408,
-    "meta": 1731493926321,
-    "relativePath": "scripts\\Game.ts"
-  },
-  "749bb3b9-2cc9-4209-a826-1f116cc408ff": {
-    "asset": 1731494092182,
-    "meta": 1731494106001,
-    "relativePath": "scripts\\bad.ts"
-  },
   "d33a4a6e-0236-4b13-a6b1-78d3bd9e65f0": {
     "asset": 1731494269658,
     "meta": 1731494269697,
     "relativePath": "background.jpg"
   },
   "7b745a7e-a793-4189-aa6f-a2310e7899da": {
-    "asset": 1731551621042,
-    "meta": 1731551656919,
+    "asset": 1731638001698,
+    "meta": 1731638046445,
     "relativePath": "scripts\\movement.ts"
+  },
+  "d7db3d61-dc2e-4826-9bd7-b164a9874d11": {
+    "asset": 1731638271681,
+    "meta": 1731638291804,
+    "relativePath": "scripts\\movement"
+  },
+  "68c76343-12f9-4c5c-b0bf-110daefce979": {
+    "asset": 1731637717195,
+    "meta": 1731638291825,
+    "relativePath": "scripts\\movement\\characterMovementComponent.ts"
+  },
+  "35843448-400b-4fe9-a799-9295727e5fe0": {
+    "asset": 1731637684298,
+    "meta": 1731638291835,
+    "relativePath": "scripts\\movement\\characterRotationComponent.ts"
+  },
+  "749bb3b9-2cc9-4209-a826-1f116cc408ff": {
+    "asset": 1731638708134,
+    "meta": 1731638709169,
+    "relativePath": "scripts\\bad.ts"
+  },
+  "15b5b49a-1ded-4b90-a53a-a57d4e1ebdf4": {
+    "asset": 1731639042060,
+    "meta": 1731639530990,
+    "relativePath": "scripts\\game"
+  },
+  "301b06dc-d0a7-420c-8e73-f7d431b54cf9": {
+    "asset": 1731638988877,
+    "meta": 1731639531004,
+    "relativePath": "scripts\\game\\bulletManagerComponent.ts"
+  },
+  "f2dd838e-4ed2-4ab8-b82b-2fcfd5110f2d": {
+    "asset": 1731639012825,
+    "meta": 1731639531015,
+    "relativePath": "scripts\\game\\enemySpawnerComponent.ts"
+  },
+  "e2d3cdc6-87c6-4e0e-b3fd-a093776841d2": {
+    "asset": 1731639036883,
+    "meta": 1731639531022,
+    "relativePath": "scripts\\game\\scoreManagerComponent.ts"
+  },
+  "1c0febf6-df8a-4b45-8872-640f33c1d24e": {
+    "asset": 1731639606526,
+    "meta": 1731639608034,
+    "relativePath": "scripts\\Game.ts"
   }
 }
